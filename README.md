@@ -47,8 +47,6 @@ admin.py       # Admin functionalities
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
-git clone https://github.com/yourusername/course-management-system.git
-cd course-management-system
 
 2. Create and initialize the database:
 sqlite3 prj.db < setup.sql
